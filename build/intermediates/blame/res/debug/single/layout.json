@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout\\incoming.xml",
+        "source": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\res\\layout\\incoming.xml"
+    },
+    {
+        "merged": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout\\callscreen.xml",
+        "source": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\res\\layout\\callscreen.xml"
+    },
+    {
+        "merged": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\res\\layout\\main.xml"
+    }
+]

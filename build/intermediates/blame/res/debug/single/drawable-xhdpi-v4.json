@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\callbg.9.png",
+        "source": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\res\\drawable-xhdpi\\callbg.9.png"
+    },
+    {
+        "merged": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\startbg.9.png",
+        "source": "E:\\sinch-android-rtc-3.8.0-VIDEO-20151119.112353-6\\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT\\samples\\sinch-rtc-sample-video\\res\\drawable-xhdpi\\startbg.9.png"
+    }
+]
